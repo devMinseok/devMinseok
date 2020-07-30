@@ -1,8 +1,10 @@
 ### Hi there I'm Minseok!👋
 
-<div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevMinseok)](https://github.com/devMinseok)
-</div>
+  <div align=center>
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevMinseok)](https://github.com/devMinseok) 
+  
+  </div>
 
 [![devMinseok's github stats](https://github-readme-stats.vercel.app/api?username=devMinseok&count_private=true&show_icons=true)](https://github.com/devMinseok)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMinseok&layout=compact)](https://github.com/devMinseok)
