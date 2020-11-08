@@ -1,17 +1,7 @@
-```
- ________  _______   ___      ___ _____ ______   ___  ________   ________  _______   ________  ___  __       
-|\   ___ \|\  ___ \ |\  \    /  /|\   _ \  _   \|\  \|\   ___  \|\   ____\|\  ___ \ |\   __  \|\  \|\  \     
-\ \  \_|\ \ \   __/|\ \  \  /  / \ \  \\\__\ \  \ \  \ \  \\ \  \ \  \___|\ \   __/|\ \  \|\  \ \  \/  /|_   
- \ \  \ \\ \ \  \_|/_\ \  \/  / / \ \  \\|__| \  \ \  \ \  \\ \  \ \_____  \ \  \_|/_\ \  \\\  \ \   ___  \  
-  \ \  \_\\ \ \  \_|\ \ \    / /   \ \  \    \ \  \ \  \ \  \\ \  \|____|\  \ \  \_|\ \ \  \\\  \ \  \\ \  \ 
-   \ \_______\ \_______\ \__/ /     \ \__\    \ \__\ \__\ \__\\ \__\____\_\  \ \_______\ \_______\ \__\\ \__\
-    \|_______|\|_______|\|__|/       \|__|     \|__|\|__|\|__| \|__|\_________\|_______|\|_______|\|__| \|__|
-                                                                   \|_________|                                                                                                                                                                                                                                                      
-```
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=280&section=header&text=devMinseok&fontSize=90&animation=scaleIn)
 <div align=center>
 
-[![👁](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevMinseok)](https://github.com/devMinseok) 
+[![👁](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev#Minseok)](https://github.com/devMinseok)
 
 </div>
   
@@ -27,3 +17,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qbq5000@gmail.com)](mailto:qbq5000@gmail.com)
   
 </div>
+![footer](https://capsule-render.vercel.app/api?type=wave&color=#F05138&height=150&section=footer)
