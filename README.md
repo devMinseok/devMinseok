@@ -17,4 +17,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qbq5000@gmail.com)](mailto:qbq5000@gmail.com)
   
 </div>
-![footer](https://capsule-render.vercel.app/api?type=wave&color=#F05138&height=150&section=footer)
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=0077ED&height=280&section=header&text=Xcode&fontSize=90&animation=fadeIn&fontColor=FFFFFF)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=F05138&height=250&section=footer&text=Swift&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
