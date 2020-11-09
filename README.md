@@ -1,4 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=280&section=header&text=devMinseok&fontSize=90&animation=scaleIn)
+
 <div align=center>
 
 [![👁](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdev#Minseok)](https://github.com/devMinseok)
@@ -18,5 +19,7 @@
   
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=0077ED&height=280&section=header&text=Xcode&fontSize=90&animation=fadeIn&fontColor=FFFFFF)
+<div style="height: 100px;">
+![header](https://capsule-render.vercel.app/api?type=wave&color=0077ED&height=280&section=header&text=Xcode&fontSize=90&animation=fadeIn&fontColor=333333)
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=F05138&height=250&section=footer&text=Swift&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
+</div>
