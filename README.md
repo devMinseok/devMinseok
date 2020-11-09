@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=280&section=header&text=devMinseok&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=280&section=header&text=devMinseok&fontSize=90&animation=fadeIn&fontAlignY=40)
 
 <div align=center>
 
@@ -19,4 +19,4 @@
   
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=F05138&height=250&section=footer&text=Swift&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=F05138&height=150&section=footer&text=%20Swift&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlign=61)
