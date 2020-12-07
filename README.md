@@ -18,7 +18,8 @@ tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=qbq5000)](https://solved
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://axe-num1.tistory.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/민석-강-a8a292176/)](https://www.linkedin.com/in/민석-강-a8a292176/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qbq5000@gmail.com)](mailto:qbq5000@gmail.com)
-  
+[![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://devMinseok.github.io)
+
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=F05138&height=150&section=footer&text=Swift&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlign=61)
