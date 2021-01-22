@@ -8,13 +8,13 @@
   
 ### Hi there I'm Minseok!👋
 
-[![devMinseok's github stats](https://github-readme-stats.vercel.app/api?username=devMinseok&count_private=true&show_icons=true)](https://devminseok.medium.com)
+[![devMinseok's github stats](https://github-readme-stats.vercel.app/api?username=devMinseok&count_private=true&show_icons=true)](https://github.com/devMinseok)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMinseok&layout=compact)](https://github.com/devMinseok)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qbq5000)](https://solved.ac/qbq5000)
 
 <div align=center>
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://axe-num1.tistory.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://devminseok.medium.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/민석-강-a8a292176/)](https://www.linkedin.com/in/민석-강-a8a292176/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qbq5000@gmail.com)](mailto:qbq5000@gmail.com)
 [![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://devMinseok.github.io)
