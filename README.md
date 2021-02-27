@@ -14,14 +14,11 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://devMinseok.github.io)
 
 </div>
-  
-<div align=center>
+
 ### Hi there I'm Minseok!👋
 
 [![devMinseok's github stats](https://github-readme-stats.vercel.app/api?username=devMinseok&count_private=true&show_icons=true)](https://github.com/devMinseok)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMinseok&layout=compact)](https://github.com/devMinseok)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qbq5000)](https://solved.ac/qbq5000)
-</div>
-
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=F05138&height=150&section=footer&text=Swift&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlign=61)
