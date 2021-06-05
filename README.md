@@ -17,5 +17,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devMinseok&show_icons=true&hide_border=true&layout=compact)](https://github.com/devMinseok)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=qbq5000)](https://solved.ac/qbq5000)
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=F05138&height=150&section=footer&text=Swift&fontSize=60&animation=fadeIn&fontColor=FFFFFF&fontAlign=61)
