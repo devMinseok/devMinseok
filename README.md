@@ -16,6 +16,10 @@
 
 ## Activity
 
+### Nexters 25th iOS Developer
+*2024.07 - Present*
+- Project: 
+
 ### Depromeet 11th iOS Developer
 *2022.03 - 2022.07*
 - Project: [Tiki-taka](https://github.com/depromeet/Tiqui-Taca_iOS)
