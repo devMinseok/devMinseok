@@ -34,12 +34,6 @@
 - **Testing**: XCTest
 
 <br>
-
-## Education
-
-- **Daegu Software Meister High School**  
-*2019.03 - 2022.02*
-
 <br>
 
 ## Connect with Me
