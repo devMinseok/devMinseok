@@ -18,7 +18,7 @@
 
 ### Nexters 25th iOS Developer
 *2024.07 - Present*
-- Project: 
+- Project: [Mohanyang](https://github.com/Nexters/PomoNyang-iOS)
 
 ### Depromeet 11th iOS Developer
 *2022.03 - 2022.07*
