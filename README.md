@@ -17,8 +17,8 @@
 ## Activity
 
 ### Nexters 25th iOS Developer
-*2024.07 - Present*
-- Project: [Mohanyang](https://github.com/Nexters/PomoNyang-iOS)
+*2024.07 - 2024.09*
+- Project: [Mohanyang](https://github.com/Nexters/Mohanyang-iOS)
 
 ### Depromeet 11th iOS Developer
 *2022.03 - 2022.07*
@@ -38,6 +38,13 @@
 - **Testing**: XCTest
 
 <br>
+
+
+## Education
+
+- **Daegu Software Meister High School**  
+*2019.03 - 2022.02*
+  
 <br>
 
 ## Connect with Me
