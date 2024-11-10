@@ -15,6 +15,9 @@
 <br>
 
 ## Activity
+### Nexters 26th Executive Member (CTO)
+*2024.09 - Present*
+- Website: [Nexters](https://nexters.co.kr/)
 
 ### Nexters 25th iOS Developer
 *2024.07 - 2024.09*
@@ -23,9 +26,6 @@
 ### Depromeet 11th iOS Developer
 *2022.03 - 2022.07*
 - Project: [Tiki-taka](https://github.com/depromeet/Tiqui-Taca_iOS)
-
-### Monotone Hackathon
-*2022.01.08 - 2022.01.09*
 
 <br>
 
