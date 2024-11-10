@@ -4,13 +4,13 @@
 
 ### iOS Engineer at [Kimcaddie](https://kimcaddie.com/) 
 *2022.06 - Present*
-- Part of the Product Team at Kimcaddie, a screen golf booking service.
-- Responsible for overall feature development and maintenance of screen golf course reservations, driving range reservations, golf lessons, etc.
+- Serving as the iOS Development Lead within the Product Team at Kimcaddie, a screen golf booking service.
+- Overseeing and managing the iOS development process, ensuring quality and efficiency in the creation and maintenance of core features, including screen golf course reservations, driving range bookings, and golf lessons.
 
 ### iOS Engineer at [Blind](https://www.teamblind.com/)
 *2021.08 - 2022.06*
-- Worked on the Growth Community Team at Blind, an anonymous professional community.
-- Primarily responsible for feature development and maintenance for Blind iOS App users in the US.
+- Worked on the Growth Community Team at Blind, an anonymous professional community platform.
+- Focused on feature development and maintenance for Blind’s iOS app, catering primarily to users in the US market.
 
 <br>
 
