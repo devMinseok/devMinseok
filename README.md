@@ -16,7 +16,7 @@
 
 ## Activity
 ### Nexters 26th Executive Member (CTO)
-*2024.09 - Present*
+*2024.09 - 2025.02*
 - Website: [Nexters](https://nexters.co.kr/)
 
 ### Nexters 25th iOS Developer
@@ -41,6 +41,9 @@
 
 
 ## Education
+
+- **Soongsil University**  
+*2025.03 - 2029.02*
 
 - **Daegu Software Meister High School**  
 *2019.03 - 2022.02*
