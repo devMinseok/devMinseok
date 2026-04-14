@@ -3,7 +3,7 @@
 ## Experience
 
 ### iOS Engineer at [Kimcaddie](https://kimcaddie.com/) 
-*2022.06 - Present*
+*2022.06 - 2026.03*
 - Serving as the iOS Development Lead within the Product Team at Kimcaddie, a screen golf booking service.
 - Overseeing and managing the iOS development process, ensuring quality and efficiency in the creation and maintenance of core features, including screen golf course reservations, driving range bookings, and golf lessons.
 
@@ -43,7 +43,7 @@
 ## Education
 
 - **Soongsil University**  
-*2025.03 - 2029.02*
+*2025.03 - Present*
 
 - **Daegu Software Meister High School**  
 *2019.03 - 2022.02*
