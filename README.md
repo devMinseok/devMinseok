@@ -35,6 +35,15 @@
 
 <br>
 
+## 최근 블로그 글
+
+<!-- BLOG-POST-LIST:START -->
+- [정적 블로그에도 라우터가 필요한 이유](https://devminseok.github.io/tech-blog-swift/posts/type-safe-routing-for-static-sites/) <sub>2026.08.27</sub>
+- [Swift 6의 Sendable을 작게 이해하기](https://devminseok.github.io/tech-blog-swift/posts/understanding-swift-sendable/) <sub>2026.08.18</sub>
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 ## 기술 스택
 
 ### iOS
@@ -81,6 +90,6 @@
 ## 연락처
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devMinseok)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://devminseok.medium.com)
+[![Tech Blog](https://img.shields.io/badge/Tech_Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://devminseok.github.io/tech-blog-swift/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/민석-강-a8a292176/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:qbq5000@gmail.com)
