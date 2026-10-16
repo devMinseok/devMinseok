@@ -16,7 +16,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
           feed_list: "https://devminseok.github.io/tech-blog-swift/feed.xml"
-          max_post_count: 2
+          max_post_count: 5
           template: "- [$title]($url) <sub>$date</sub>$newline"
           date_format: "yyyy.mm.dd"
           commit_message: "Update latest blog posts"
