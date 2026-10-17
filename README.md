@@ -37,8 +37,7 @@
 
 ## 최근 블로그 글
 
-<!-- BLOG-POST-LIST:START -->
-- [정적 블로그에도 라우터가 필요한 이유](https://devminseok.github.io/tech-blog-swift/posts/type-safe-routing-for-static-sites/) <sub>2026.08.27</sub>
+<!-- BLOG-POST-LIST:START -->- [정적 블로그에도 라우터가 필요한 이유](https://devminseok.github.io/tech-blog-swift/posts/type-safe-routing-for-static-sites/) <sub>2026.08.27</sub>
 - [Swift 6의 Sendable을 작게 이해하기](https://devminseok.github.io/tech-blog-swift/posts/understanding-swift-sendable/) <sub>2026.08.18</sub>
 - [Swift로 정적 사이트 생성기 만들기](https://devminseok.github.io/tech-blog-swift/posts/building-a-static-site-with-swift/) <sub>2026.08.10</sub>
 <!-- BLOG-POST-LIST:END -->
